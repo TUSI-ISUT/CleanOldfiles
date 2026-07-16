@@ -27,7 +27,7 @@ Already packaged as a **standalone `.exe`** – no Python required.
 
 ### 1. Using the pre‑built executable (Windows)
 1. Download the latest `CleanOldfiles.exe` from [Releases](https://github.com/TUSI-ISUT/CleanOldfiles/releases).
-2. Place the `config.ini` file next to it and edit to your needs (see [Configuration](#-configuration)).
+2. Place the `config.ini` file next to it and edit to your needs (see [Configuration](./confing/confing.ini)).
 3. Double‑click the `.exe` – it runs silently and shows a summary pop‑up.
 
 ### 2. Running from source (Python 3.7+)
