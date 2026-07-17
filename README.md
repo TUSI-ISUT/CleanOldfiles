@@ -1,5 +1,7 @@
 # CleanOldfiles
 
+[简体中文](./README_CN.md)  [English](./README.md)
+
 A lightweight, configurable Python tool that automatically **moves** old files into a backup directory based on their **creation date** and **last access date**.  
 The file types are fully customizable (e.g. `.ppt`, `.docx`, `.xlsx`, `.pdf`, `.log`, …) – you decide what to clean.  
 A companion script lets you safely purge the backup folder with one click.  
