@@ -1,5 +1,5 @@
 # CleanOldfiles
-
+[简体中文](./README_CN.md)  [English](./README.md)
 一个轻量、可配置的 Python 工具，能根据**创建日期**和**最后访问日期**自动将**任意类型的旧文件**移动到备份目录。  
 文件类型完全由你决定（例如 `.ppt`、`.docx`、`.xlsx`、`.pdf`、`.log`……），在 `config.ini` 中随意设置即可。  
 另有配套脚本，可一键安全清空备份文件夹。  
@@ -27,7 +27,7 @@
 
 ### 1. 使用预编译的可执行文件（Windows）
 1. 从 [Releases](https://github.com/yourusername/CleanOldfiles/releases) 下载最新的 `CleanOldfiles.exe`。
-2. 将 `config.ini` 放在同一目录，按需修改（参见[配置说明](./config/config_CN.md)）。
+2. 将 `config.ini` 放在同一目录，按需修改（参见[配置说明](./config/config_CN.ini)）。
 3. 双击 `.exe` 运行，稍候会弹出结果摘要弹窗。
 
 ### 2. 从源码运行（Python 3.7+）
