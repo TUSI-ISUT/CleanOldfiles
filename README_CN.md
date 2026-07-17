@@ -28,12 +28,12 @@
 ## 📦 快速开始
 
 ### 1. 使用预编译的可执行文件（Windows）
-1. 从 [Releases](https://github.com/yourusername/CleanOldfiles/releases) 下载最新的 `CleanOldfiles.exe`。
+1. 从 [Releases](https://github.com/TUSI-ISUT/CleanOldfiles/releases) 下载最新的 `CleanOldfiles.exe`。
 2. 将 `config.ini` 放在同一目录，按需修改（参见[配置说明](./config/config_CN.ini)）。
 3. 双击 `.exe` 运行，稍候会弹出结果摘要弹窗。
 
 ### 2. 从源码运行（Python 3.7+）
 ```bash
-git clone https://github.com/yourusername/CleanOldfiles.git
+git clone https://github.com/TUSI-ISUT/CleanOldfiles.git
 cd CleanOldfiles
 python main.py
